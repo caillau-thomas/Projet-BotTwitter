@@ -1,0 +1,21 @@
+{
+    "data": {
+        "Tags": [
+            {
+                "hashtag": "#YourHashtag"
+            }   
+        ],
+
+        "Tweets": [
+            {
+                "tweet": "Your tweet n°1"
+            },
+            {
+                "tweet": "Your tweet n°2" 
+            },
+            {
+                "tweet": "Your tweet n°3" 
+            }
+        ]
+    }
+}
